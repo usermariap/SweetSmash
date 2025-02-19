@@ -1,0 +1,19 @@
+# Compiled files
+*.exe
+*.out
+*.o
+*.obj
+*.dll
+*.so
+*.dylib
+
+# Build directories
+/build/
+/bin/
+/Debug/
+/Release/
+
+# IDE-specific files
+.vscode/
+*.sln
+*.vcxproj*

@@ -1,0 +1,16 @@
+﻿  event.cpp
+C:\Users\maria\Desktop\ergasia1\SweetSmash\SweetSmash\defines.h(44,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  game1.cpp
+C:\Users\maria\Desktop\ergasia1\SweetSmash\SweetSmash\defines.h(44,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\maria\Desktop\ergasia1\SweetSmash\SweetSmash\game1.cpp(50,5): warning C4002: too many arguments for function-like macro invocation 'SETCOLOR'
+C:\Users\maria\Desktop\ergasia1\SweetSmash\SweetSmash\game1.cpp(158,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\maria\Desktop\ergasia1\SweetSmash\SweetSmash\game1.cpp(159,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+C:\Users\maria\Desktop\ergasia1\SweetSmash\SweetSmash\defines.h(44,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Sweet.cpp
+C:\Users\maria\Desktop\ergasia1\SweetSmash\SweetSmash\defines.h(44,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 319 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SweetSmash.vcxproj -> C:\Users\maria\Desktop\ergasia1\SweetSmash\bin\SweetSmash.exe
